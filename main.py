@@ -9,7 +9,7 @@ def game():
     print(f"Cześć! Zagrajmy w wisielca!\n")
 
     #zbiór słów
-    zbior_slow = ['szynka', 'elektroniczny', 'losowe', 'warszawa', 'archeologia', 'cywilizacja', 'klawiatura', 'paralotnia', 'ekosystem', 'kontowersja']
+    zbior_slow = ['szynka', 'elektroniczny', 'losowe', 'warszawa', 'archeologia', 'cywilizacja', 'klawiatura', 'paralotnia', 'ekosystem', 'kontrowersja']
     slowo = random.choice(zbior_slow)
     proby = ''
     kolejka = 10
